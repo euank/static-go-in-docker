@@ -16,4 +16,4 @@ There also is likely a better way to handle bundling certs depending on exactly 
 
 # LICENSE
 
-Public Domain; if you absolutely need a license you can use it under the Apache 2.0 License as well.
+Public Domain; if you're in a country that does not respect public domain, you can use it under the Apache 2.0 License.
